@@ -1,0 +1,6 @@
+a=int(input("enter the salary"))
+
+if(a>5000):
+  print("good salary")
+else:
+  print("not a good salary")
